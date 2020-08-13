@@ -36,13 +36,18 @@ Various results were obtained. The following are the comparison criteria;
 
 
 ## INTERFACE UX
-Here are screens shots from the application accuracy plots and UI interfaces
+Here are screens shots from the currnency computer application
 
-![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/page%20(1).png)
-![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/page%20(2).png)
-![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/page%20(3).png)
-![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/page%20(4).png)
-![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/page%20(5).png)
-![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/page%20(6).png)
-![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/page%20(7).png)
-![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/page%20(8).png)
+![ Muntu App SMS # 1 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/pages%20(1).png)
+![ Muntu App SMS # 2 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/pages%20(2).png)
+
+Here are screens shots from the application FLC application
+
+![ Muntu App SMS # 1 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/page%20(1).png)
+![ Muntu App SMS # 2 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/page%20(2).png)
+![ Muntu App SMS # 3 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/page%20(3).png)
+![ Muntu App SMS # 4 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/page%20(4).png)
+![ Muntu App SMS # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/page%20(5).png)
+![ Muntu App SMS # 6 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/page%20(6).png)
+![ Muntu App SMS # 7 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/page%20(7).png)
+![ Muntu App SMS # 8 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/page%20(8).png)
