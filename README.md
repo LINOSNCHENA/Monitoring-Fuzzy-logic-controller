@@ -35,15 +35,7 @@ Various results were obtained. The following are the comparison criteria;
 3. Parameters are speed, comfort and vehicle safety.
 
 
-# 3. MPC- INTERFACE UX 
-Here are screen-shots from the MPC compututation results
-
-![ Muntu App SMS # 1 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MPC/page%20(1).png)
-![ Muntu App SMS # 2 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MPC/page%20(2).png)
-![ Muntu App SMS # 3 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MPC/page%20(3).png)
-![ Muntu App SMS # 4 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MPC/page%20(4).png)
-
-# 4. FLC- INTERFACE UX 
+# 3. FLC- INTERFACE UX 
 Here are screen-shots from the FLC application results
 
 ![ Muntu App SMS # 1 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/FLC/page%20(1).png)
@@ -54,3 +46,12 @@ Here are screen-shots from the FLC application results
 ![ Muntu App SMS # 6 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/FLC/page%20(6).png)
 ![ Muntu App SMS # 7 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/FLC/page%20(7).png)
 ![ Muntu App SMS # 8 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/FLC/page%20(8).png)
+
+
+# 4. MPC- INTERFACE UX 
+Here are screen-shots from the MPC compututation results
+
+![ Muntu App SMS # 1 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MPC/page%20(1).png)
+![ Muntu App SMS # 2 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MPC/page%20(2).png)
+![ Muntu App SMS # 3 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MPC/page%20(3).png)
+![ Muntu App SMS # 4 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MPC/page%20(4).png)
