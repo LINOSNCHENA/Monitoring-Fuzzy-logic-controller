@@ -33,3 +33,13 @@ Various results were obtained. The following are the comparison criteria;
 1. Plots differ on effect of disturbance.
 2. Plot A-B-C-D-E-F.
 3. Parameters are speed, confort and vehicle safety.
+
+
+## INTERFACE UX
+Here are screens shots from the application accuracy plots and UI interfaces
+
+![ Muntu App Accuracy # 1 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_ACC.png)
+![ Muntu App Loss     # 2 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_Loss.png)
+![ Muntu App MSE      # 3 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_MSE.png)
+![ Muntu App UX       # 4 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/snapshots/cOutputLabel/front.png)
+![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/snapshots/cOutputLabel/end.png)
