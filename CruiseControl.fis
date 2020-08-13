@@ -1,0 +1,57 @@
+[System]
+Name='CruiseControl'
+Type='mamdani'
+Version=2.0
+NumInputs=2
+NumOutputs=2
+NumRules=9
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='Speed'
+Range=[0 150]
+NumMFs=3
+MF1='slow':'trimf',[-75 0 75]
+MF2='medium':'trimf',[0 75 150]
+MF3='fast':'trimf',[75 150 225]
+
+[Input2]
+Name='Error'
+Range=[-100 100]
+NumMFs=3
+MF1='NL':'trimf',[-180 -100 0]
+MF2='Z':'trimf',[-5 0 5]
+MF3='PL':'trimf',[0 100 180]
+
+[Output1]
+Name='Throttle'
+Range=[0 100]
+NumMFs=4
+MF1='SLOW':'trimf',[-40 0 40]
+MF2='MEDIUM':'trimf',[10 50 90]
+MF3='FAST':'trimf',[60 100 140]
+MF4='zero':'trimf',[-100 -50 0]
+
+[Output2]
+Name='Brake'
+Range=[0 100]
+NumMFs=4
+MF1='SLOW':'trimf',[-40 0 40]
+MF2='MEDIUM':'trimf',[10 50 90]
+MF3='FAST':'trimf',[60 100 140]
+MF4='zero':'trimf',[-100 -50 0]
+
+[Rules]
+1 1, 4 3 (1) : 1
+2 1, 4 3 (1) : 1
+3 1, 4 3 (1) : 1
+1 2, 4 4 (1) : 1
+2 2, 4 4 (1) : 1
+3 2, 4 4 (1) : 1
+1 3, 3 4 (1) : 1
+2 3, 2 4 (1) : 1
+3 3, 3 4 (1) : 1

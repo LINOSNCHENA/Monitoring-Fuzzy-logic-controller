@@ -1,0 +1,53 @@
+[System]
+Name='unza'
+Type='mamdani'
+Version=2.0
+NumInputs=2
+NumOutputs=1
+NumRules=9
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='current_speed'
+Range=[-15 15]
+NumMFs=3
+MF1='slow':'trimf',[-303000 -2 0]
+MF2='around':'trimf',[-2 0 2]
+MF3='fast':'trimf',[0 2 303000]
+
+[Input2]
+Name='current_error'
+Range=[-15 15]
+NumMFs=3
+MF1='NL':'trimf',[-303000 -2 0]
+MF2='Z':'trimf',[-2 0 2]
+MF3='PL':'trimf',[0 2 3030000]
+
+[Output1]
+Name='throttle_force'
+Range=[-15 15]
+NumMFs=9
+MF1='N2':'trimf',[-11.25 -7.5 -3.75]
+MF2='Z':'trimf',[-3 0 3]
+MF3='P2':'trimf',[3.75 7.5 11.25]
+MF4='N3':'trimf',[-15 -11.25 -7.5]
+MF5='N1':'trimf',[-7.5 -3 0]
+MF6='P1':'trimf',[0 3 7.5]
+MF7='P3':'trimf',[7.5 11.25 15]
+MF8='N4':'trimf',[-20 -15 -11.25]
+MF9='P4':'trimf',[11.25 15 20]
+
+[Rules]
+1 1, 8 (1) : 1
+2 1, 4 (1) : 1
+3 1, 1 (1) : 1
+1 2, 5 (1) : 1
+2 2, 2 (1) : 1
+3 2, 6 (1) : 1
+1 3, 3 (1) : 1
+2 3, 7 (1) : 1
+3 3, 9 (1) : 1
