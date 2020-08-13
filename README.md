@@ -42,4 +42,12 @@ Here are screens shots from the application accuracy plots and UI interfaces
 ![ Muntu App Loss     # 2 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_Loss.png)
 ![ Muntu App MSE      # 3 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_MSE.png)
 ![ Muntu App UX       # 4 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/snapshots/cOutputLabel/front.png)
-![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/snapshots/cOutputLabel/end.png)
+
+![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/Input%20OutPut.png)
+![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/Input%20OutPut.png)
+![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/Input%20OutPut.png)
+![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/Input%20OutPut.png)
+![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/Input%20OutPut.png)
+![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/Input%20OutPut.png)
+![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/Input%20OutPut.png)
+![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller/blob/master/uxDP/MATLAB/Input%20pages(1).png)
